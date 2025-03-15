@@ -1,0 +1,6 @@
+telebot
+requests
+yt-dlp
+tikdan
+
+
